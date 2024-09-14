@@ -5,6 +5,7 @@
     <title> Malo's CV </title>
     <meta name="description" content=" single page CV made by HTML" />
     <link rel="icon" href="download.png">
+    <link rel="Project URL" href="https://roadmap.sh/projects/single-page-cv">
 
   </head>
   <body>
